@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tousif18
+- 👋 Hi, I’m Tousif Azim.
 - 👀 I’m very interested in the world of technology, like data science, machine learning, AI etc.
 - ✨ I am very passionate about learning new technical topics.
 - 🌱 I’m currently learning Data science, pursuing a BSc in Data science.
