@@ -23,7 +23,8 @@
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tousif18&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tousif18&theme=radical&show_icons=true)
+)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Tousif18&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tousif18&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
