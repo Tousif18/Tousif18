@@ -47,9 +47,10 @@ Hi, I’m **Tousif Azim** – a BSc Data Science student passionate about turnin
 
 ---
 
-## 🏆 GitHub Trophies
+![Repos](https://img.shields.io/badge/Public%20Repos-10-blue)
+![Followers](https://img.shields.io/github/followers/Tousif18?label=Followers&style=social)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Tousif18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ---
 
